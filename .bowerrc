@@ -1,0 +1,15 @@
+{
+    "directory": "assets/bower_components",
+    "registry": "https://registry.bower.io",
+    "color": true,
+    "timeout": 60000,
+    "save": true,
+    "save-exact": true,
+    "strict-ssl": true,
+    "storage": {
+        "packages" : "~/.bower/packages",
+        "registry" : "~/.bower/registry",
+        "links" : "~/.bower/links"
+      },
+    "interactive": true
+}

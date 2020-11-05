@@ -1,0 +1,25 @@
+{
+  "name": "datenarong.github.io",
+  "description": "I'm fullstack developer",
+  "main": "index.html",
+  "authors": [
+    {
+      "name": "Datenarong Tarin",
+      "email": "datenarong@gmail.com"
+    }
+  ],
+  "keywords": [
+    "datenarong"
+  ],
+  "homepage": "https://github.com/datenarong/client-bulk-sms-app",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
